@@ -53,15 +53,15 @@ I enjoy building **real-world web applications**, experimenting with **machine l
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragnimkande&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnimkande&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/anurag-nimkande  
+- 📧 Email: anurag.nimkande@gmail.com  
 
 ---
 
