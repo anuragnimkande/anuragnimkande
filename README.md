@@ -1,68 +1,93 @@
-# Hi 👋, I'm Anurag  
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Anurag%20Nimkande&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 Computer Science Student | 💻 Full-Stack Developer | 🤖 ML & Quantum Computing Enthusiast  
+<h3 align="center">
+🎓 Computer Science Student • 💻 Full-Stack Developer • 🤖 ML & Quantum Computing Enthusiast
+</h3>
 
-I enjoy building **real-world web applications**, experimenting with **machine learning models**, and exploring the intersection of **AI and Quantum Computing**. I love turning ideas into working products 🚀
+<p align="center">
+  <em>Building real-world applications at the intersection of Web, AI & Quantum Computing</em> 🚀
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Django & MERN stack projects**
-- 🤖 Interested in **Machine Learning, AI & Quantum Computing**
-- 🏥 Built projects like **Hospital Management System** & **Depression Prediction**
-- 🌱 Learning **Advanced ML, System Design & Quantum ML**
-- ⚡ Fun fact: I enjoy combining **theory + implementation** (CFGs, ML models, full-stack apps)
+## 👋 About Me
+- 🔭 Currently building **Django & MERN stack applications**
+- 🤖 Passionate about **Machine Learning, AI & Quantum Computing**
+- 🏥 Worked on **Hospital Management Systems** & **Healthcare ML Models**
+- 🌱 Exploring **Advanced ML, System Design & Quantum ML**
+- ⚡ Fun fact: I love blending **theory with implementation** (CFGs, ML, full-stack)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,r" />
+</p>
 
 ### 🌐 Web & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,express" />
+</p>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 📊 ML & Tools
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🏥 **Hospital Management System** – Django + ML-based risk prediction  
-- 😷 **Depression Prediction System** – ML models with clinical datasets  
-- 🎓 **Alumni Management System** – Full-stack Django web app  
-- 🤖 **AI Code Analyzer (Gemini API)** – Flask + Tailwind  
-- ⚛️ **Hybrid Quantum–Classical ML Projects**
+## 🚀 Featured Projects
+| Project | Description |
+|------|-------------|
+| 🏥 **Hospital Management System** | Django app with ML-based patient risk prediction |
+| 😷 **Depression Prediction System** | ML models using clinical & survey datasets |
+| 🎓 **Alumni Management System** | Full-stack Django platform with admin dashboard |
+| 🤖 **AI Code Analyzer** | Gemini API + Flask + Tailwind for code analysis |
+| ⚛️ **Hybrid Quantum–Classical ML** | Research-oriented quantum ML implementations |
 
-👉 Check my repositories for code, demos & documentation.
+➡️ *Each repository includes documentation, screenshots & setup steps.*
 
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragnimkande&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragnimkande&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnimkande&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnimkande&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragnimkande&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/anurag-nimkande  
-- 📧 Email: anurag.nimkande@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/anurag-nimkande">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Nimkande-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:anurag.nimkande@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+<p align="center">
+⭐ If you like my work, consider starring my repositories — it really helps!
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
+</p>
